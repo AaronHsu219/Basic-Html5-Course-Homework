@@ -1,8 +1,6 @@
-## Samples
-### layout1
-(preview) https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout1.html
-### layout2
-(preview) https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout2.html
+## Layout Samples 
+layout1 https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout1.html <br>
+layout2 https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout2.html
 
 ## References
 rawgit http://rawgit.com/
