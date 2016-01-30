@@ -6,8 +6,10 @@
 * layout2 https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout2.html
 
 ### Version03
-* layout3 (without RWD)  https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout03_withoutRWD/index.html
-* layout4 (with RWD) https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout04_withRWD/index.html
+* layout3 (without RWD) <br> 
+    https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout03_withoutRWD/index.html
+* layout4 (with RWD) <br> 
+    https://cdn.rawgit.com/AaronHsu219/Basic-Html5-Course-Homework/master/hw1_layout/layout04_withRWD/index.html
 
 ## References
 rawgit http://rawgit.com/
