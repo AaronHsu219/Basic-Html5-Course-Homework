@@ -1,0 +1,26 @@
+.buffer {
+	/*  content: '';*/
+	clear: left;
+	height: 40px;
+}
+.desc {
+	widows: 304px;
+}
+
+/* media query*/
+
+@media screen and (max-width: 500px) {
+	.col-4 {
+		clear: left;
+		width: 100%;
+		padding: 0px 10px;
+	}
+	.desc {
+		display: block;
+		width: 100%;
+	}
+	.image {
+		width: 100%;
+		height: auto;
+	}
+}
